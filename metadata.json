@@ -1,0 +1,6 @@
+{
+  "name": "BQ - Bill Quotation",
+  "description": "Mobile-first quotation builder and client follow-up app for builders, decorators, MCs, and trades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
